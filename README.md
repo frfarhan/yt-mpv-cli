@@ -3,7 +3,7 @@
 ##  Description
 
 A lightweight command-line music player built in Python that fetches songs using **yt-dlp** and plays them using **mpv**
-Currently supports selecting audio/video quality but contains bugs. 
+. Currently supports selecting audio/video quality but contains bugs. 
 
 ---
 
