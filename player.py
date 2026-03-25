@@ -12,8 +12,6 @@ if query.mode == 1:
         pass
 
 
-if query.mode == 1:
-    mpv_flag = "--no-video"
 elif query.mode == 2:
     if query.bitrate == 1:
         mpv_flag = "--ytdl-format=bestvideo[height<=1080]+bestaudio"
